@@ -20,3 +20,5 @@ defp deps do
     {:otp_gen_lib, git: "https://github.com/rathi-abhinav/OtpGenLib.git"}
   ]
 end
+```
+*normal_app_module.ex is just to see how it can be used.
